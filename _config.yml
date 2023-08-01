@@ -20,7 +20,7 @@ timezone:
 
 title: Hamza Saleh # the main title
 
-tagline: A text-focused Jekyll theme # it will display as the sub-title
+tagline: My Personal Website # it will display as the sub-title
 
 description: >- # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
@@ -29,7 +29,7 @@ description: >- # used by seo meta and the atom feed
 url: ""
 
 github:
-  username: github_username # change to your github username
+  username: 0xRmQu # change to your github username
 
 twitter:
   username: twitter_username # change to your twitter username
@@ -44,7 +44,7 @@ social:
     - https://twitter.com/username # change to your twitter homepage
     - https://github.com/username # change to your github homepage
     # Uncomment below to add more social links
-    # - https://www.facebook.com/username
+    - https://www.facebook.com/username
     - https://www.linkedin.com/in/username
 
 google_site_verification: # fill in to your verification string
